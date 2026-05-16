@@ -102,20 +102,7 @@ def minimax(game)
     end
 end
 
-<hr>
-<h2>Sample Input and Output</h2>
-
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/6b668685-8bcc-43c5-b5c2-ddd43f3da84a)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/8ca1b08a-8312-4ef5-89df-e69b7b2c3fa2)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/dc06427a-d4ce-43a1-95bd-9acfaefac323)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a8a27e2a-6fd4-46a2-afb5-6d27b8556702)
-![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/a2acb6a1-ed8e-42e5-8968-fe805e4b0255)
-
-<hr>
 <h2> Program : </h2>
-
-```
-
 
 import time
 
@@ -277,9 +264,8 @@ def main():
 if __name__ == "__main__":
     main()
 
-```
-    <h2> Output </h2>
-    <img width="1130" height="1007" alt="image" src="https://github.com/user-attachments/assets/123c6c41-ceab-4550-a8bc-ae2b0e5a40fd" />
+<h2> Output </h2>
+<img width="1130" height="1007" alt="image" src="https://github.com/user-attachments/assets/123c6c41-ceab-4550-a8bc-ae2b0e5a40fd" />
 
 <h2>Result:</h2>
 <p>Thus,Implementation of  Minimax Search Algorithm for a Simple TIC-TAC-TOE game wasa done successfully.</p>
